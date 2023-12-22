@@ -50,45 +50,45 @@ education:
       institution: National Autonomous University of Mexico
       year: 2021
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+# # Skills
+# # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# skills:
+#   - name: Technical
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: python
+#         icon_pack: fab
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-line
+#         icon_pack: fas
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: database
+#         icon_pack: fas
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-hiking
+#         icon_pack: fas
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#         icon_pack: fas
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera-retro
+#         icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -109,7 +109,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Iliana-Cortes
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -118,11 +118,14 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/ICortes_CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently pursuing a doctoral degree at HITS, where I am engaged in extensive research within the field of astrophysics. Under the mentorship of Dr. Kai Polsterer, my focus lies in the analysis of Active Galactic Nuclei (AGN) spectra, utilizing advanced machine learning techniques to decipher complex astronomical phenomena.
+
+In addition to my primary research, my academic interests span the realm of observational astrophysics, with a particular emphasis on high redshift galaxies and cosmology. The intricacies of these subjects drive my intellectual curiosity, leading me to explore profound questions about the origins and fundamental properties of the universe.
+
 {style="text-align: justify;"}
