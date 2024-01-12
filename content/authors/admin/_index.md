@@ -100,19 +100,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/astro_iliana
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #  icon_pack: fas
+  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/Iliana-Cortes
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  #- icon: linkedin
+  #  icon_pack: fab
+  #  link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -124,8 +124,8 @@ social:
 highlight_name: true
 ---
 
-I am currently pursuing a doctoral degree at HITS, where I am engaged in extensive research within the field of astrophysics. Under the mentorship of Dr. Kai Polsterer, my focus lies in the analysis of Active Galactic Nuclei (AGN) spectra, utilizing advanced machine learning techniques to decipher complex astronomical phenomena.
+I am currently pursuing a doctoral degree at HITS, where I am engaged in research within the field of astrophysics. Under the mentorship of Dr. Kai Polsterer, my focus lies in the analysis of Active Galactic Nuclei (AGN) spectra, utilizing advanced machine learning techniques to decipher complex astronomical phenomena.
 
-In addition to my primary research, my academic interests span the realm of observational astrophysics, with a particular emphasis on high redshift galaxies and cosmology. The intricacies of these subjects drive my intellectual curiosity, leading me to explore profound questions about the origins and fundamental properties of the universe.
+In addition to my primary research, my academic interests span the realm of observational astrophysics, with a particular emphasis on high redshift galaxies and cosmology.
 
 {style="text-align: justify;"}
