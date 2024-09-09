@@ -4,7 +4,7 @@ title: Disentangling the Interplay of the Inner Regions of AGNs Via Probabilisti
 event: Annual Meeting of the Astronomische Gesellschaft 2024
 event_url: https://ag2024.astronomische-gesellschaft.de/index.php
 
-# location: HITS
+location: University of Cologne
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -19,7 +19,7 @@ abstract: 'Galaxies that host in their centre a Supermassive Black Hole (SMBH) w
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-09-09T13:00:00Z'
 date_end: '2024-09-13T15:00:00Z'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 #publishDate: '2017-01-01T00:00:00Z'
@@ -40,7 +40,7 @@ links:
 #     name: Follow
 #     url: https://www.instagram.com/p/C5gAEmhNTpS/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 # url_code: ''
-url_pdf: content/event/AG_meeting_24/ICortes_CV.pdf
+url_pdf: uploads/AGN_AG24_poster.pdf
 # url_slides: ''
 # url_video: ''
 
