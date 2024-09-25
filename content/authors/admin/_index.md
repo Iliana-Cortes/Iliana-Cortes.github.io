@@ -29,7 +29,7 @@ organizations:
     url: https://www.imprs-hd.mpg.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include active galactic nuclei, machine learning, spectroscopy, and observational astronomy.
+bio: My research interests include active galactic nuclei, machine learning, time domain astronomy, and observational astronomy.
 
 # Interests to show in About widget
 interests:
@@ -124,7 +124,7 @@ social:
 highlight_name: true
 ---
 
-Note: I am currently pursuing a doctoral degree at HITS, where I am engaged in research within the field of astrophysics. Under the mentorship of Dr. Kai Polsterer, my focus lies in the analysis of Active Galactic Nuclei (AGN) spectra, utilizing advanced machine learning techniques to decipher complex astronomical phenomena.
+I am currently pursuing a doctoral degree at HITS, where I am engaged in research within the field of astrophysics. Under the mentorship of Dr. Kai Polsterer, my focus lies in the analysis of Active Galactic Nuclei (AGN) spectra, utilizing advanced machine learning techniques to decipher complex astronomical phenomena.
 
 In addition to my primary research, my academic interests span the realm of observational astrophysics, with a particular emphasis on high-redshift galaxies and cosmology.
 
