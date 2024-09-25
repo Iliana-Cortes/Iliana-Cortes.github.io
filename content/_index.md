@@ -115,81 +115,81 @@ sections:
   #   design:
   #     columns: '2'
 
-  # - block: collection
-  #   id: posts
-  #   content:
-  #     title: Recent Posts
-  #     count: 5 # Choose how many pages you would like to display (0 = all pages)
-  #     filters:
-  #       folders:
-  #         - post
-  #       author: ""
-  #       category: ""
-  #       tag: ""
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ""
-  #     offset: 0
-  #     order: desc
-  #   design:
-  #     view: compact
-  #     columns: '2'
-
-  - block: portfolio
-    id: projects
+  - block: collection
+    id: posts
     content:
-      title: Projects
+      title: Recent Posts
+      count: 5 # Choose how many pages you would like to display (0 = all pages)
       filters:
         folders:
-          - project
-      default_button_index: 0
-      buttons:
-        - name: All
-          tag: '*'
-        - name: ML
-          tag: ML
-        - name: Other
-          tag: Demo
+          - post
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      offset: 0
+      order: desc
     design:
-      columns: '1'
-      view: showcase
-      flip_alt_rows: false
+      view: compact
+      columns: '2'
+
+  # - block: portfolio
+  #   id: projects
+  #   content:
+  #     title: Projects
+  #     filters:
+  #       folders:
+  #         - project
+  #     default_button_index: 0
+  #     buttons:
+  #       - name: All
+  #         tag: '*'
+  #       - name: ML
+  #         tag: ML
+  #       - name: Other
+  #         tag: Demo
+  #   design:
+  #     columns: '1'
+  #     view: showcase
+  #     flip_alt_rows: false
 
   - block: markdown
     content:
       title: Gallery
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="iliana_gallery" >}}
     design:
       columns: '1'
 
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
 
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
 
   - block: collection
     id: talks
@@ -216,7 +216,7 @@ sections:
         I welcome inquiries, collaborations, and conversations. Feel free to reach out to me through the following channels, and I look forward to connecting with you:
       email: iliana.cortes@h-its.org
       phone: +49 (0)6221 – 533 – 317
-      appointment_url: 'https://calendly.com'
+      # appointment_url: 'https://calendly.com'
       address:
         street: Schloss-Wolfsbrunnenweg 35
         city: Heidelberg
@@ -224,10 +224,10 @@ sections:
         postcode: '69118'
         country: Germany
         country_code: DE
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
       coordinates:
         latitude: '49.41543259269141'
         longitude: '8.73770613322823'  
@@ -236,14 +236,14 @@ sections:
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+        # - icon: skype
+        #   icon_pack: fab
+        #   name: Skype Me
+        #   link: 'skype:echo123?call'
+        # - icon: video
+        #   icon_pack: fas
+        #   name: Zoom Me
+        #   link: 'https://zoom.com'
       autolink: true
       form:
         provider: netlify

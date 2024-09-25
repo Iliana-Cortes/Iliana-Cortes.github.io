@@ -25,6 +25,8 @@ tags: [conference, poster]
 featured: false
 
 image:
+  filename: content/event/AG_meeting_24/poster_prize.jpg
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 url_pdf: uploads/AGN_AG24_poster.pdf
