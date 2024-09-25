@@ -25,7 +25,7 @@ tags: [conference, poster]
 featured: false
 
 image:
-  filename: /workspaces/Iliana-Cortes.github.io/content/event/AG_meeting_24/poster_prize.jpg
+  filename: poster_prize.jpg
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
