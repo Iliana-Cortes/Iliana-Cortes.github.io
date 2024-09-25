@@ -50,8 +50,8 @@ education:
       institution: National Autonomous University of Mexico
       year: 2021
 
-# # Skills
-# # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# Skills
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 # skills:
 #   - name: Technical
 #     items:
@@ -124,7 +124,7 @@ social:
 highlight_name: true
 ---
 
-I am currently pursuing a doctoral degree at HITS, where I am engaged in research within the field of astrophysics. Under the mentorship of Dr. Kai Polsterer, my focus lies in the analysis of Active Galactic Nuclei (AGN) spectra, utilizing advanced machine learning techniques to decipher complex astronomical phenomena.
+Note: I am currently pursuing a doctoral degree at HITS, where I am engaged in research within the field of astrophysics. Under the mentorship of Dr. Kai Polsterer, my focus lies in the analysis of Active Galactic Nuclei (AGN) spectra, utilizing advanced machine learning techniques to decipher complex astronomical phenomena.
 
 In addition to my primary research, my academic interests span the realm of observational astrophysics, with a particular emphasis on high-redshift galaxies and cosmology.
 
